@@ -1,0 +1,10 @@
+name: agraph
+channels:
+  - conda-forge
+  - bioconda
+  - jackkamm
+dependencies:
+  - python=3.6
+  - momi
+  - jupyter
+  - networkx=2.3

@@ -1,0 +1,12 @@
+A_0	A
+A_1	A
+A_2	A
+B_0	B
+B_1	B
+B_2	B
+C_0	C
+C_1	C
+C_2	C
+D_0	D
+D_1	D
+D_2	D
