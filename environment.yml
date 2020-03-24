@@ -8,5 +8,4 @@ dependencies:
   - momi
   - jupyter
   - networkx=2.3
-  - pip:
-    - pygraphviz
+  - pygraphviz
