@@ -5,7 +5,6 @@ import matplotlib.pyplot as plt
 from random import sample
 from networkx.algorithms.cycles import find_cycle
 from networkx.drawing.nx_agraph import write_dot, graphviz_layout
-from admixture_graph import *
 from scipy.special import comb
 from scipy.stats import beta
 
